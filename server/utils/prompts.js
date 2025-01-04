@@ -4,7 +4,7 @@ export const prompts = [
   {
     tags: ["fundraising", "fundable", "fundraising options"],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN ENTREPRENEUR/higher-education/Is Your Startup Fundable.txt",
+      "/media/bilal-shahid/New Volume/tongston chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN ENTREPRENEUR/higher-education/Is Your Startup Fundable.txt",
     description: "Information about fundraising options for startups.",
   },
   {
