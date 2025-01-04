@@ -1,0 +1,19 @@
+# Organizational Structure
+
+## Director
+- Oversees all departments and operations.
+
+## HR & Admin
+- Responsible for human resources and administrative functions.
+
+### HR Assistant
+- Supports HR-related tasks and activities.
+
+### Admin Assistant
+- Assists with administrative duties and office management.
+
+## Sales & Logistics
+- Manages sales operations and logistics.
+
+### Sales & Logistics Team
+- Handles sales activities and logistics coordination.

@@ -1,0 +1,122 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Chatbot</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .form-container {
+      margin: 20px 0;
+    }
+    label {
+      font-size: 18px;
+      margin-bottom: 8px;
+      display: block;
+    }
+    input, textarea {
+      width: 100%;
+      padding: 10px;
+      margin: 8px 0;
+      font-size: 16px;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #45a049;
+    }
+    .response {
+      margin-top: 20px;
+      padding: 15px;
+      border: 1px solid #ddd;
+      background-color: #f9f9f9;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>AI Chatbot</h1>
+
+  <div class="form-container">
+    <label for="industry">Your Industry:</label>
+    <input type="text" id="industry" placeholder="Enter your industry">
+
+    <button onclick="setIndustry()">Set Industry</button>
+  </div>
+
+  <div class="form-container">
+    <label for="query">Your Query:</label>
+    <textarea id="query" rows="4" placeholder="Enter your query"></textarea>
+
+    <button onclick="askQuestion()">Ask Question</button>
+  </div>
+
+  <div class="response" id="responseContainer">
+    <!-- The response from the AI will be displayed here -->
+  </div>
+
+  <script>
+    const responseContainer = document.getElementById('responseContainer');
+
+    // Function to set the user's industry
+    const setIndustry = async () => {
+      const industry = document.getElementById('industry').value.trim();
+      if (industry === '') {
+        alert('Please enter an industry');
+        return;
+      }
+
+      const response = await fetch('http://localhost:5701/set-industry', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ industry }),
+      });
+
+      const data = await response.json();
+      if (data.message) {
+        alert(data.message);
+      }
+    };
+
+    // Function to ask a question to the AI
+    const askQuestion = async () => {
+      const query = document.getElementById('query').value.trim();
+      if (query === '') {
+        alert('Please enter a query');
+        return;
+      }
+
+      const response = await fetch('http://localhost:5701/ask-question', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ userQuery: query }),
+      });
+
+      const data = await response.json();
+      if (data.response) {
+        responseContainer.innerHTML = `<strong>AI Response:</strong><p>${data.response}</p>`;
+      } else {
+        responseContainer.innerHTML = `<strong>Error:</strong><p>${data.message}</p>`;
+      }
+    };
+  </script>
+
+</body>
+</html>

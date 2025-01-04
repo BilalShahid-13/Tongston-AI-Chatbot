@@ -1,0 +1,354 @@
+12/4/23, 6:40 AM                                    Startup Funding Benchmarks & Requirements
+
+
+
+                                                                                       Main Menu                    
+                                                                                                                    
+
+
+                                                                                       Accelerators                 
+                           Startup Funding Benchmarks
+                                                                       Investors                  
+       Deal terms, and the requirements to raise startup funding, are constantly in flux. The below
+      metrics reflect what we are seeing across dozens of deals per month, and across most major
+                                   geographic markets and industries. Events                      
+
+                                                 JUMP TO SECTION                       Reviews
+                     Funding Milestones     Traction Metrics      State of Funding              Methodology
+                                                                                       Alumni                       
+
+
+                                                                                       Resources                    
+
+
+                                                                                       About                        
+
+                                                                                      Lagos
+
+
+
+                                                                                          Apply         Sign in
+
+
+
+
+        SHARE          
+
+
+
+
+             Startup Funding Requirements & Milestones
+                           FEATURED EVENT                                                                       
+      The below are the average milestones and deal metrics we are observing across the globe on
+                  Co-Founders Connect:   the Find a Business Partner Online
+                                             date displayed.                         RSVP 
+
+
+https://fi.co/benchmarks                                                                                                1/7
+12/4/23, 6:40 AM                                        Startup Funding Benchmarks & Requirements
+
+         Please note these figures are an approximate average, since deals vary widely across
+                                                                         Main Menu
+        geographic markets, industries, and companies. In the end, a company      is worth what an
+    investor/ acquirer is willing to agree it is worth and the below should only be used as a baseline
+                                                     guide.              Accelerators              
+
+
+                                                                                           Investors                  
+                                                                                      Last Updated on March 16, 2023
+
+
+                                                                                           Events                     
+    Stage                              Pre-Seed                               Seed                       Series A
+
+
+    Traction                      Customer Validation                                Reviews
+                                                                     Product-Market Fit                 Expansion
+
+
+    Growth Rate                      0 - 20% MoM                       15% - 30% MoMAlumni              25%+ MoM 
+
+
+    Monthly
+                                       $0 - $75k                         $75k - $200k Resources          $200k+       
+    Revenue
+
+
+    Team Size                              2+                                  10+         About           20+        
+
+    Product                               MVP                                Robust                    Commercial
+
+
+                             F&F, Seed Accelerators, Angels,        Seed Accelerators,         Series A/ Growth VC
+    Investors                                                                           Apply
+                               Pre-Seed/ Micro VC Funds            Angels, Seed VC Funds     Funds, Existing Investors
+
+
+    Round Size                       $25k - $750k                        $750k - $4m                      $4m+
+
+
+    Company
+                                       $1m - $5m                          $5m - $12m                   $18m - $50m
+    Valuation
+
+
+    Investment
+                                SAFE/ Convertible Note                   Priced Round                  Priced Round
+    Vehicle
+
+
+
+
+                            FEATURED EVENT
+
+
+                                   Startup "Traction" Metrics
+                           Co-Founders Connect: Find a Business Partner Online                           RSVP 
+
+
+https://fi.co/benchmarks                                                                                                  2/7
+12/4/23, 6:40 AM                                         Startup Funding Benchmarks & Requirements
+
+    In general, investors invest in "traction" over ideas. But the definition of "traction" changes across
+                                                                            Main Menu
+        industries, and over time. The below are the average traction metrics/       milestones we are
+                             observing across the globe on the date displayed.
+                                                                                            Accelerators                 
+
+                                                                                       Last Updated on March 16, 2023
+                                                                                            Investors                    
+
+    Industry                          Pre-Seed Traction                        Seed Traction                Series A Traction
+                                                                                        Events                           
+    Marketplaces/                   $5k - $500k Transaction               $250k - $2m Revenue              $5m - $20m Revenue
+    eCommerce                               Revenue                             Run Rate
+                                                                                       Reviews                  Run Rate
+
+
+                                   Demonstrable Customer                                 Alumni
+    Consumer                                                                  25k - 100k DAUs,                           
+                                   Demand, 5k+ DAUs, Great                                                    500k+ DAUs
+    Audience                                                                  Network Effects
+                                         Retention
+                                                                                            Resources                    
+                                                                                                        $200k MRR, 12 months
+    Saas                                   Paid Pilots                       $20k - $100k MRR
+                                                                                                           of Cohort Data
+                                                                                            About                        
+                                 Strong Leadership, PoC, GitHub             Strong Leadership,
+    Deep Tech                                                                                           Commercial Validation
+                                             Stars                         PoC, IP, GitHub Stars
+
+
+                                                                                               Apply
+
+
+
+
+                                   Current State of Funding
+                                            Last Updated on March 16, 2023
+
+
+         This most recent update includes lowered valuations and round sizes for Series A rounds.
+
+      Economic confidence is shaken as a result of the SVB fallout, and we expect the later-stage
+    funding market (Series A+) to remain very challenging throughout 2023. SVB also represented a
+       large portion of the global venture debt market (and was widely relied on to offer the best
+     terms), and many later-stage companies were relying on venture debt to extend their runway.
+      As such, we expect   to see
+                    FEATURED      many more layoffs, closures, and acquisitions at large, late-stage
+                              EVENT
+                                               companies.
+                           Co-Founders Connect: Find a Business Partner Online                                 RSVP 
+
+
+https://fi.co/benchmarks                                                                                                        3/7
+12/4/23, 6:40 AM                                Startup Funding Benchmarks & Requirements
+
+    We are still seeing a strong market for seed funding, with valuations holding steady. Anecdotally,
+                we believe this is due to an influx of later-stage VCs intoMain  Menu
+                                                                            the seed market.
+
+      Pre-seed and angel funding levels also remain strong, but we do believe there will be a short
+                                                                        Accelerators
+      slowdown across all funding levels as people 'exhale' from the stresses                     
+                                                                              of the SVB ordeal and
+          monitor the turbulent public markets. We expect this slowdown to subside in April.
+                                                                                   Investors            
+
+
+                                                                                   Events               
+
+                                             Methodology                           Reviews
+
+        The Founder Institute is the world's largest pre-seed startup accelerator, with over 6,800
+                                                                         Alumni                    
+      portfolio companies spanning 100 countries. Our data is derived from working closely with FI
+       Alumni on their financing efforts on a daily basis, and observing dozens of term sheets and
+                                                                         the FI Venture Network (a
+        deals per month. In addition, this data leverages feedback from Resources
+       network of investors that participate in the earliest startup funding rounds) and our sister
+                 company, VC Lab (the leading accelerator to launch new venture funds).
+                                                                         About                     
+
+
+
+
+                                                                                      Apply
+
+                                Frequently Asked Questions
+
+    How accurate are these figures?                                                                     
+
+
+    How often are these figures updated?                                                                
+
+
+    How do I start the process of raising funding?                                                      
+
+                            FEATURED EVENT
+
+                           Co-Founders Connect: Find a Business Partner Online                 RSVP 
+
+
+https://fi.co/benchmarks                                                                                    4/7
+12/4/23, 6:40 AM                                Startup Funding Benchmarks & Requirements
+
+
+
+                                                                                   Main Menu
+
+                   Join the Founder Institute Global  Network
+                                                  Accelerators                               
+     Since 2009, the Founder Institute has been on a mission to empower talented people to build
+                               businesses that matter across the globe.
+                                                                     Investors               
+
+
+                                                                                   Events           
+            FOR CURIOUS
+
+            Startuppers                                                            Reviews
+
+            We host thousands of free startup events per year with top entrepreneur and
+                                                                        Alumni                      
+            investor speakers.
+
+                                                                                   Resources        
+                 Attend a free event 
+
+                                                                                   About            
+
+
+
+            FOR ASPIRING
+
+            Entrepreneurs                                                             Apply
+
+            Now is the time to build a company that matters. Apply to our pre-seed accelerator
+            program.
+
+
+                 Apply to FI Core 
+
+
+
+
+            FOR ASPIRING
+
+            Ecosystem Leaders
+                       FEATURED EVENT
+            Rally your community  to launch startups that will have a positive impact on the
+            world. Apply to lead an accelerator.
+                     Co-Founders      Connect: Find a Business Partner Online              RSVP 
+
+
+https://fi.co/benchmarks                                                                                5/7
+12/4/23, 6:40 AM                                    Startup Funding Benchmarks & Requirements
+
+
+                 Apply to Lead                                                        Main Menu
+
+
+                                                                                       Accelerators            
+
+
+            FOR ASPIRING                                                               Investors               
+
+            Fund Managers                                                              Events                  
+            Launch a VC firm and fund businesses that will build a bright future. Apply to join our
+            VC builder program.
+                                                                                       Reviews
+
+
+                 Apply to VC Lab                                                      Alumni                  
+
+
+                                                                                       Resources               
+
+
+                                                                                       About                   
+
+              The Founder Institute is the world’s most proven network to turn ideas into fundable
+              startups, and startups into global businesses. Since 2009, our structured accelerator
+              programs have helped over 6,800 entrepreneurs raise over $1.75BN in funding. Based in
+                                                                              Apply
+              Silicon Valley and with chapters across 100 countries, our mission is to empower
+              communities of talented and motivated people to build impactful technology companies
+              worldwide.
+
+
+              
+
+
+
+
+              ABOUT US               SUPPORT                    INNOVATION
+              Company                Apply to a Cohort          Launch an FI Chapter
+              Core Program           Contact Us                 Launch a Venture Fund
+              Global Locations     Knowledge Base
+                        FEATURED EVENT                          Intrapreneurship
+              Startup Events         Agreements                 Universities
+                           Co-Founders Connect: Find a Business Partner Online                        RSVP 
+              Press                  Startup Resources          Entrepreneur DNA
+
+https://fi.co/benchmarks                                                                                           6/7
+12/4/23, 6:40 AM                                        Startup Funding Benchmarks & Requirements
+
+              FAQ                      Startup Jobs
+                                                                                           Main Menu
+
+
+                                                                                           Accelerators            
+                                 Copyright © 2023, Founder Institute, Inc. All Rights Reserved
+                                                                                           Investors               
+                                                Terms of Use      Privacy Policy
+
+                                                                                           Events                  
+
+                                                                                           Reviews
+
+
+                                                                                           Alumni                  
+
+
+                                                                                           Resources               
+
+
+                                                                                           About                   
+
+
+
+
+                                                                                              Apply
+
+
+
+
+                            FEATURED EVENT
+
+                           Co-Founders Connect: Find a Business Partner Online                            RSVP 
+
+
+https://fi.co/benchmarks                                                                                               7/7
+
