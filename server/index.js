@@ -137,6 +137,9 @@ app.post("/ask", async (req, res) => {
 app.get("/", (req, res) => {
   res.send("Hello from the server!");
 });
+app.get("/home", (req, res) => {
+  res.send("Hello from the server!");
+});
 
 // Start the server
 const PORT = 4000;
