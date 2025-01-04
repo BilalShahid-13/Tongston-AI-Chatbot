@@ -2,7 +2,7 @@ import fs from "fs";
 import readline from "readline";
 import { OpenAI } from "openai";
 import { config } from "dotenv";
-import { prompts } from "./utils/prompts.js"; // Import prompt mappings
+import { prompts } from "../utils/prompts.js"; // Import prompt mappings
 
 // Load environment variables
 config();

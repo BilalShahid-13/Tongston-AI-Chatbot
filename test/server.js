@@ -1,8 +1,9 @@
 import express from "express";
+import bodyParser from "body-parser";
 import fs from "fs";
+import cors from "cors";
 import { OpenAI } from "openai";
 import { config } from "dotenv";
-import cors from "cors";
 import { prompts } from "../utils/prompts.js"; // Import prompt mappings
 
 // Load environment variables
@@ -14,13 +15,13 @@ const openai = new OpenAI({
 });
 
 // Global user context
-let userContext = {
+const userContext = {
   industry: "", // Store user's industry preference
 };
 
 // Initialize Express app
 const app = express();
-app.use(express.json()); // To parse JSON request bodies
+app.use(bodyParser.json());
 app.use(cors("*"));
 
 // Function to read a text file
@@ -101,49 +102,35 @@ const askOpenAIWithTextContent = async (extractedText, userQuery) => {
   }
 };
 
-// API route to set the user's industry
-app.post("/set-industry", (req, res) => {
-  const { industry } = req.body;
-  if (industry) {
-    userContext.industry = industry.trim();
-    res.json({ message: `Industry set to: ${userContext.industry}` });
-  } else {
-    res.status(400).json({ message: "Industry is required" });
-  }
-});
+// API endpoint to handle user queries
+app.post("/ask", async (req, res) => {
+  const { query } = req.body;
 
-// API route to ask a question
-app.post("/ask-question", async (req, res) => {
-  const { userQuery } = req.body;
-  if (!userQuery) {
-    return res.status(400).json({ message: "Query is required" });
-  }
-
-  const extractedIndustry = extractIndustryFromQuery(userQuery);
+  // Extract industry from the query (if mentioned)
+  const extractedIndustry = extractIndustryFromQuery(query);
   if (extractedIndustry) {
     userContext.industry = extractedIndustry;
   }
 
-  const filePath = getKnowledgeBaseFilePath(userQuery);
+  const filePath = getKnowledgeBaseFilePath(query);
 
   if (filePath) {
     const extractedText = readTextFile(filePath);
+
     if (extractedText) {
-      const response = await askOpenAIWithTextContent(extractedText, userQuery);
-      return res.json({ response });
+      const response = await askOpenAIWithTextContent(extractedText, query);
+      res.json({ response });
     } else {
-      return res
-        .status(500)
-        .json({ message: "Failed to read the knowledge base file." });
+      res.json({ response: "Failed to read the knowledge base file." });
     }
   } else {
-    const response = await askOpenAI(userQuery);
-    return res.json({ response });
+    const response = await askOpenAI(query);
+    res.json({ response });
   }
 });
 
 // Start the server
-const port = process.env.PORT || 5701;
-app.listen(port, () => {
-  console.log(`Server is running on port ${port}`);
+const PORT = 5000;
+app.listen(PORT, () => {
+  console.log(`Server is running on http://localhost:${PORT}`);
 });
