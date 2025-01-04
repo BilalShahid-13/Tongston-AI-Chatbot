@@ -29,15 +29,25 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
+
+      - name: Prepare files for deployment
+        run: |
+          # Create a new directory for the deployment
+          mkdir -p ./public
+          
+          # Copy the HTML file from the source directory to the public directory
+          cp -r "Tongston-AI-Chatbot/ai chatbot/view/index.html" ./public/
+      
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload entire repository
-          path: './ai chatbot/view/index.html'
+          path: './public'  # Upload the `public` folder containing the index.html
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
