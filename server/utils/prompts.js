@@ -4,13 +4,13 @@ export const prompts = [
   {
     tags: ["fundraising", "fundable", "fundraising options"],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN ENTREPRENEUR/higher-education/Is Your Startup Fundable.txt",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN ENTREPRENEUR/higher-education/Is Your Startup Fundable.txt",
     description: "Information about fundraising options for startups.",
   },
   {
     tags: ["cash flow", "financial model", "cash flow management"],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN ENTREPRENEUR/higher-education/Sample Financial Model.txt",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN ENTREPRENEUR/higher-education/Sample Financial Model.txt",
     title: "How can I manage cash flow effectively for a startup?",
     description:
       "Information about managing cash flow and financial modeling for startups.",
@@ -24,7 +24,7 @@ export const prompts = [
       "industry funding",
     ],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN ENTREPRENEUR/higher-education/Startup Funding Benchmarks & Requirements.txt",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN ENTREPRENEUR/higher-education/Startup Funding Benchmarks & Requirements.txt",
     description:
       "Information on how to prepare an effective funding pitch to investors in various industries.",
   },
@@ -39,7 +39,7 @@ export const prompts = [
       "entrepreneurial thinking",
     ],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN ENTREPRENEUR/education-learning/Tongston Entrepreneurial-Thinking Model.txt",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN ENTREPRENEUR/education-learning/Tongston Entrepreneurial-Thinking Model.txt",
     prompts:
       "What courses can help me develop essential entrepreneurial skills for [industry]?",
   },
@@ -53,7 +53,7 @@ export const prompts = [
       "certification programs",
     ],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN ENTREPRENEUR/education-learning/Tongston Entrepreneurial-Thinking Model.txt",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN ENTREPRENEUR/education-learning/Tongston Entrepreneurial-Thinking Model.txt",
     prompts:
       "Are there any certifications I should earn to boost credibility in [industry]?",
   },
@@ -67,7 +67,7 @@ export const prompts = [
       "industry-specific business plan",
     ],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN ENTREPRENEUR/education-learning/Tongston Entrepreneurial-Thinking Model.txt",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN ENTREPRENEUR/education-learning/Tongston Entrepreneurial-Thinking Model.txt",
     prompts:
       "What resources can help me write a strong business plan for [industry]?",
   },
@@ -81,7 +81,7 @@ export const prompts = [
       "skills training",
     ],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN ENTREPRENEUR/education-learning/TW - User Journey Definition.docx.txt",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN ENTREPRENEUR/education-learning/TW - User Journey Definition.docx.txt",
     prompts: "Education and Learning",
   },
   // Banking, Finance, and Investments
@@ -94,7 +94,7 @@ export const prompts = [
       "banking and finance",
     ],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Banking-Finance-Investments",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Banking-Finance-Investments",
     prompts:
       "How can I track my earnings and build my T-World rewards wallet effectively?",
   },
@@ -108,7 +108,7 @@ export const prompts = [
       "learning credentials",
     ],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/TW - User Journey Definition.txt",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/TW - User Journey Definition.txt",
     prompts:
       "How can I earn certificates on T-World that are recognized by employers?",
   },
@@ -121,7 +121,7 @@ export const prompts = [
       "mentorship programs",
     ],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/LIFE SKILLS CLUB TEACHER TRAINER MANUAL (1)-2.txt",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/LIFE SKILLS CLUB TEACHER TRAINER MANUAL (1)-2.txt",
     prompts:
       "Are there any mentoring sessions available for students preparing for job interviews?",
   },
@@ -134,7 +134,7 @@ export const prompts = [
       "skill development",
     ],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/LIFE SKILLS CLUB TEACHER TRAINER MANUAL (1)-2.txt",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/LIFE SKILLS CLUB TEACHER TRAINER MANUAL (1)-2.txt",
     prompts: "What learning resources can help me gain practical job skills?",
   },
   {
@@ -146,7 +146,7 @@ export const prompts = [
       "career planning",
     ],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/TW - User Journey Definition.txt",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/TW - User Journey Definition.txt",
     prompts:
       "Can you suggest a personalized learning plan for my career goals?",
   },
@@ -159,7 +159,7 @@ export const prompts = [
       "skill-based courses",
     ],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/TW - User Journey Definition.txt",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/TW - User Journey Definition.txt",
     prompts:
       "How can I use T-World to find courses that match my interests and aspirations?",
   },
@@ -172,7 +172,7 @@ export const prompts = [
       "teamwork skills",
     ],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/PRINCIPLES, POLICIES & PRACTICES OF STANDARD EDUCATION,SCHOOLING, LEARNING - TONGSTOn.docx.txt",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/PRINCIPLES, POLICIES & PRACTICES OF STANDARD EDUCATION,SCHOOLING, LEARNING - TONGSTOn.docx.txt",
     prompts:
       "What are the best tools for improving my soft skills for the workplace?",
   },
@@ -185,7 +185,7 @@ export const prompts = [
       "learning achievements",
     ],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/TW - User Journey Definition.txt",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/TW - User Journey Definition.txt",
     prompts:
       "How can I use my learning progress on T-World to showcase my readiness to employers?",
   },
@@ -198,7 +198,7 @@ export const prompts = [
       "skill certification",
     ],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/TW - User Journey Definition.txt",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/TW - User Journey Definition.txt",
     prompts:
       "Are there any free certifications I can earn to boost my business profile?",
   },
@@ -211,7 +211,7 @@ export const prompts = [
       "digital skills",
     ],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/LIFE SKILLS CLUB TEACHER TRAINER MANUAL (1)-2.txt",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/LIFE SKILLS CLUB TEACHER TRAINER MANUAL (1)-2.txt",
     prompts:
       "How can I learn more about digital marketing strategies for my business?",
   },
@@ -224,7 +224,7 @@ export const prompts = [
       "business strategy",
     ],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN ENTREPRENEUR/education-learning/Tongston Entrepreneurial-Thinking Model.txt",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN ENTREPRENEUR/education-learning/Tongston Entrepreneurial-Thinking Model.txt",
     prompts: "What resources can help me create an effective business plan?",
   },
   {
@@ -236,7 +236,7 @@ export const prompts = [
       "team growth",
     ],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/TW - User Journey Definition.txt",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/TW - User Journey Definition.txt",
     prompts:
       "How do I upskill to address challenges in managing a growing team?",
   },
@@ -249,7 +249,7 @@ export const prompts = [
       "learning analytics",
     ],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/TW - User Journey Definition.txt",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/TW - User Journey Definition.txt",
     prompts: "What tools can I use to track my learning progress?",
   },
   {
@@ -261,7 +261,7 @@ export const prompts = [
       "investment skills",
     ],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/LIFE SKILLS CLUB TEACHER TRAINER MANUAL (1)-2.txt",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/LIFE SKILLS CLUB TEACHER TRAINER MANUAL (1)-2.txt",
     prompts:
       "Can you recommend learning paths to improve my financial literacy?",
   },
@@ -274,7 +274,7 @@ export const prompts = [
       "professional growth",
     ],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/TW - User Journey Definition.txt",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/TW - User Journey Definition.txt",
     prompts: "What are the benefits of executive education for entrepreneurs?",
   },
   {
@@ -286,7 +286,7 @@ export const prompts = [
       "entrepreneurial skills",
     ],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/TW - User Journey Definition.txt",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/TW - User Journey Definition.txt",
     prompts: "What public speaking courses can help me pitch to investors?",
   },
   {
@@ -298,7 +298,7 @@ export const prompts = [
       "professional mentorship",
     ],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/TW - User Journey Definition.txt",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/TW - User Journey Definition.txt",
     prompts:
       "How do I find experts who can mentor me in [specific skill or industry]?",
   },
@@ -311,7 +311,7 @@ export const prompts = [
       "skill-building platforms",
     ],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/TW - User Journey Definition.txt",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/TW - User Journey Definition.txt",
     prompts:
       "Can you recommend online learning platforms for business management?",
   },
@@ -324,7 +324,7 @@ export const prompts = [
       "professional growth",
     ],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/TW - User Journey Definition.txt",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/HIGHER EDUCATION STUDENT ASPIRING TO BE AN EMPLOYEE/Education and Learning/TW - User Journey Definition.txt",
     prompts:
       "What are the best practices for setting learning goals as an entrepreneur?",
   },
@@ -337,7 +337,7 @@ export const prompts = [
       "skill implementation",
     ],
     knowledgeBase:
-      "/media/bilal-shahid/New Volume/tongston chatbot/knowledge_base/AN ENTREPRENEUR THAT IS SEEKING TO RUN, START AND SCALE A VALUABLE, INFLUENTIAL AND PROFITABLE BUSINESS /education and learning/Sample Organisational Structure.txt",
+      "https://bilalshahid-13.github.io/Tongston-AI-Chatbot/server/knowledge_base/AN ENTREPRENEUR THAT IS SEEKING TO RUN, START AND SCALE A VALUABLE, INFLUENTIAL AND PROFITABLE BUSINESS /education and learning/Sample Organisational Structure.txt",
     prompts:
       "How do I apply new skills directly to solve my business challenges?",
   },
